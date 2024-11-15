@@ -22,3 +22,4 @@ Najpierw zainstaluj wszystkie zależności:
 
 ```bash
 npm install
+npm install openai
